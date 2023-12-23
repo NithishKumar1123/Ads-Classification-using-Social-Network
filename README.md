@@ -1,2 +1,3 @@
-# Ads-Classification-using-Social-Network
-This paper is a comparative study of machine learning algorithms to classify if a particular user will visit the ad or not.
+# Ads Classification using Social Network
+This paper is a comparative study of machine learning algorithms to classify if a particular user will visit the ad or not. Given the constant growth of investment in online advertising, it is essential to have tools that provide complete, accurate, verified, and real-time monitoring of the ads companies place on different websites and social networks to sell their products. Optimized advertising is then essential to maintain user engagement in the platform. However, a challenge that many companies face today is the lack of semiautomatic mechanisms to identify advertising from their clients and even detect competing advertisers who invest their money in other media. Currently, this
+identification is accomplished by many companies manually, representing a high cost in time and effort.
